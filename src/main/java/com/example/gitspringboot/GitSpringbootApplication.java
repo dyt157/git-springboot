@@ -12,6 +12,7 @@ public class GitSpringbootApplication {
         System.out.println("登录功能开发完成");
         System.out.println("登录功能优化完成");
         System.out.println("登录功能优化重构");
+        System.out.println("43222");
         System.out.println("登录功能优化重构完成");
 
         System.out.println("注册功能完成");
