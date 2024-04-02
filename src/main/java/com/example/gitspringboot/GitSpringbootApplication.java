@@ -10,6 +10,7 @@ public class GitSpringbootApplication {
         SpringApplication.run(GitSpringbootApplication.class, args);
         System.out.println("111111111111111111");
         System.out.println("登录功能开发完成");
+        System.out.println("登录功能优化完成");
         System.out.println("注册功能开发完成");
     }
 
