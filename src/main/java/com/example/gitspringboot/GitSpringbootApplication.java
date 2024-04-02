@@ -8,6 +8,7 @@ public class GitSpringbootApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitSpringbootApplication.class, args);
+        System.out.println("注册功能");
         System.out.println("登录功能");
     }
 
